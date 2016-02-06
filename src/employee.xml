@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id="1234">
+    <contact contactType="Home">
+        <contactNumber>9811553413</contactNumber>
+    </contact>
+    <contact contactType="Office">
+        <contactNumber>9650490700</contactNumber>
+    </contact>
+    <name>Aakash</name>
+</employee>
